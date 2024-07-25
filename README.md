@@ -7,7 +7,7 @@
 - 🪼 **I Regularly Practice & Compete on various OJs and CP Platforms such as BaekJoon, Codeforces and AtCoder.**
 - 🧩 **My Preferred Languages include C++ & Python (PyPy).**
 - 🌱 **Currently learning & expanding my knowledge about ML & NLP, and their applications in real-world problem solving.**
-- 📝 **I regularly write Article on ThyEloquence : JIIT 128's Official LitSoc Society, Eloquence's very own Blog.**
+- 📝 **I'm the Head Manager & regularly write Articles on ThyEloquence : JIIT 128's Official LitSoc Society, Eloquence's very own Blog.**
 - 🔗 **You May Check It Out Here:** : **https://thyeloquence.blogspot.com/**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
