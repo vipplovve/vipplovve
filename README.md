@@ -1,38 +1,46 @@
-<h1 align="center">👋 Hi! I'm Viplove :)</h1>
-<h3 align="center">A Passionate Competitive Programmer, a Machine Learning & Natural Language Processing Enthusiast.</h3>
+<h1 align="center">👋 Hi, I'm Viplove Tyagi!</h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-
-- 🔭 **I’m currently pursuing my Bachelor of Technology in Computer Sci. & Engineering at JIIT, Noida.**
-- 🪼 **I Regularly Practice & Compete on various OJs and CP Platforms such as BaekJoon, Codeforces and AtCoder.**
-- 🧩 **My Preferred Languages include C++ & Python (PyPy).**
-- 🌱 **Currently learning & expanding my knowledge about ML & NLP, and their applications in real-world problem solving.**
-- 📝 **I'm the Head Manager & regularly write Articles on ThyEloquence : JIIT 128's Official LitSoc Society, Eloquence's very own Blog.**
-- 🔗 **You May Check It Out Here:** **https://thyeloquence.blogspot.com/**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-
-</div><h3 align="center">Connect with Me: - </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/viplove-tyagi-98a166252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Viplove Tyagi" height="50" width="60" /></a> &nbsp; &nbsp; <a href="https://codeforces.com/profile/chillisauce" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="vipplovve" height="50" width="60" /> </a> &nbsp; &nbsp;  &nbsp; <a href="https://atcoder.jp/users/chillisauce" target="blank"><img align="center" src="https://github.com/vipplovve/StudentHelpDesk/blob/main/Screenshots/Screenshot%202024-07-25%20190815.png" alt="vipplovve" height="50" width="60" /> </a> </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-
-<h3 align="center">Languages and Tools That I Use: -</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" height="50" width="50"/> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" height="50" width="50""/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" height="50" width="50"/>&nbsp; &nbsp;
+  <strong>Computer Science Student | Systems & ML Enthusiast | Writer</strong><br>
+  <em>Exploring the intersection of high-performance systems and intelligent algorithms.</em>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/viplove-tyagi-98a166252/"><img src="https://img.shields.io/badge/LinkedIn-Viplove%20Tyagi-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://codeforces.com/profile/chillisauce"><img src="https://img.shields.io/badge/Codeforces-mox-lightgrey?style=flat-square&logo=codeforces" alt="Codeforces"></a>
+  <a href="https://atcoder.jp/users/chillisauce"><img src="https://img.shields.io/badge/AtCoder-chillisauce-lightgrey?style=flat-square" alt="AtCoder"></a>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipplovve&label=Profile%20views&color=0e75b6&style=flat" alt="vipplovve" /> </p>
+---
+
+### 🚀 About Me
+
+- 🎓 **Academic:** Final year B.Tech in Computer Science at **JIIT, Noida**.
+- 🛠️ **Systems Research:** Deeply interested in systems internals, distributed storage, and high-performance engines.
+- 🧠 **AI & ML:** Focusing on **LSTMs**, **Computer Vision**, **Generative Adversial Networks** and **NLP** applications.
+- 🖋️ **LitSoc:** Ex-Head Manager at **Eloquence**. I oversaw and contributed to our official blog, [ThyEloquence](https://thyeloquence.blogspot.com/).
+- 🧩 **Past Pursuits:** Spent a significant time solving algorithmic challenges on Codeforces and AtCoder, which built my core problem-solving foundation.
+
+---
+
+### 💻 Tech Stack
+
+**Languages & Core Tools: -**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,go,linux,git,bash,vscode" />
+  </a>
+</p>
+
+**Machine Learning & Backend: -**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,mysql,django,flask" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipplovve&label=Profile%20Views&color=blue&style=flat-square" alt="Views" />
+</p>
